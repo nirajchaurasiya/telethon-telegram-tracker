@@ -2,8 +2,8 @@ from telethon import TelegramClient
 from datetime import datetime, timedelta, timezone
 
 # Remember to use your own values from my.telegram.org!
-api_id = 29468719
-api_hash = "202bb6facb771fabed215f5340a6b5bd"
+api_id = ""
+api_hash = ""
 client = TelegramClient("anon", api_id, api_hash)
 
 
